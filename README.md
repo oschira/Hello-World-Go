@@ -7,6 +7,4 @@ Hello world in Go language
 http://golang.org/doc/install
 
 ##Run
-‘‘‘
 go run hello.go
-‘‘‘
